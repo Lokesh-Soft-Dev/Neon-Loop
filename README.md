@@ -16,3 +16,7 @@ Ideal for use as a loading animation or as an eye-catching UI element, NeonLoop 
 
 ---
 
+## 🧑‍💻 Author
+
+**LOKESH K**
+

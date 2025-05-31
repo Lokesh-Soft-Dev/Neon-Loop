@@ -1,5 +1,6 @@
 ## NeonLoop
 ---
+
 **NeonLoop** is a glowing loop animation created with pure HTML and CSS, designed to bring a vibrant, dynamic feel to modern web interfaces. 
 Ideal for use as a loading animation or as an eye-catching UI element, NeonLoop combines smooth spinning effects with neon glow visuals to enhance user experience.
 
@@ -20,3 +21,4 @@ Ideal for use as a loading animation or as an eye-catching UI element, NeonLoop 
 
 **LOKESH K**
 
+---
